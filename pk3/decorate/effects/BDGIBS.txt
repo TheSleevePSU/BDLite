@@ -99,7 +99,6 @@ actor BdGib : BdBlood
         "----" A -1
     Expiring:
         "----" A random(60, 600)
-        TNT1 A 0 A_SpawnItemEx("CoolAndNewFlameTrailsLong", 0, 0, 0, 0, 0, 0)
         stop        
     }
 }
