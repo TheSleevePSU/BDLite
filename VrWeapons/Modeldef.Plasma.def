@@ -1,0 +1,99 @@
+Model BdPlasmaGun	
+{ 
+   Path "Models/Weapons/Hud/Plasma_Gun"
+   Model 0 "Plasma.md3"
+   Skin 0 "Plasma.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+	
+	FrameIndex	PLS9	A	0	0
+	FrameIndex	PLS9	B	0	1
+	FrameIndex	PLS9	C	0	2
+	FrameIndex	PLS9	D	0	3
+
+	FrameIndex	PLSG	A	0	4
+	FrameIndex	PLSF	A	0	5
+	FrameIndex	PLSA	B	0	6
+	FrameIndex	PLSA	C	0	7
+	FrameIndex	PLSF	B	0	8
+
+	FrameIndex	PLSG	B	0	9
+	FrameIndex	PLSG	C	0	10
+	FrameIndex	PLSG	D	0	11
+	FrameIndex	PLSG	E	0	12
+
+	FrameIndex	PLSR	A	0	18
+	FrameIndex	PLSR	B	0	19
+	FrameIndex	PLSR	C	0	20
+	FrameIndex	PLSR	D	0	21
+	FrameIndex	PLSR	E	0	22
+	FrameIndex	PLSR	F	0	23
+	FrameIndex	PLSR	G	0	24
+	FrameIndex	PLSR	H	0	25
+	FrameIndex	PLSR	I	0	26
+	FrameIndex	PLSR	J	0	27
+	FrameIndex	PLSR	K	0	28
+	FrameIndex	PLSR	L	0	29
+}
+
+Model BdPlasmaGun	
+{ 
+   Path "Models/Weapons/Hud/Grenade"
+   Model 0 "nade.md3"
+   Skin 0 "nade.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+
+	FrameIndex	GRTH	A	0	3
+	FrameIndex	GRTH	B	0	4
+	FrameIndex	GRTH	C	0	5
+	FrameIndex	GRTH	D	0	6
+	FrameIndex	GRTH	E	0	7
+	FrameIndex	GRTH	F	0	8
+	FrameIndex	GRTH	G	0	9
+	
+	FrameIndex	GRTH	H	0	10
+	FrameIndex	GRTH	I	0	11
+	FrameIndex	GRTH	J	0	12
+	FrameIndex	GRTH	K	0	13
+	FrameIndex	GRTH	L	0	14
+	FrameIndex	GRTH	M	0	15
+	
+}
+
+Model BdPlasmaGun	
+{ 
+   Path "Models/Weapons/Hud/Boot"
+   Model 0 "Boot.md3"
+   Skin 0 "Boot.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+   
+	FrameIndex	STMP	A	0	20
+	FrameIndex	STMP	B	0	21
+	FrameIndex	STMP	C	0	22
+	FrameIndex	STMP	D	0	23
+	FrameIndex	STMP	E	0	24
+	FrameIndex	STMP	F	0	25
+	FrameIndex	STMP	G	0	26
+	FrameIndex	STMP	H	0	27
+	FrameIndex	STMP	I	0	28
+	FrameIndex	STMP	J	0	23
+	FrameIndex	STMP	K	0	20
+
+	FrameIndex	KICK	A	0	20
+	FrameIndex	KICK	B	0	21
+	FrameIndex	KICK	C	0	22
+	FrameIndex	KICK	D	0	23
+	FrameIndex	KICK	E	0	24
+	FrameIndex	KICK	F	0	25
+	FrameIndex	KICK	G	0	26
+	FrameIndex	KICK	H	0	27
+	FrameIndex	KICK	I	0	28
+}

@@ -1,0 +1,96 @@
+Model BdChainsaw	
+{ 
+   Path "Models/Weapons/Hud/Chain_saw"
+   Model 0 "Chain_saw.md3"
+   Skin 0 "Chain_saw.png"
+   Scale -1.5 1.5 1.5
+   Offset 0.0 10.0 0.0
+   ZOffset -5
+   NOINTERPOLATION
+
+FrameIndex	SAWY	A	0	0
+FrameIndex	SAWY	B	0	1
+FrameIndex	SAWY	C	0	2
+FrameIndex	SAWY	D	0	3
+FrameIndex	SAWY	E	0	4
+
+FrameIndex	SAWS	A	0	5
+FrameIndex	SAWS	B	0	6
+FrameIndex	SAWS	C	0	7
+FrameIndex	SAWS	D	0	8
+FrameIndex	SAWS	E	0	9
+FrameIndex	SAWS	F	0	10
+FrameIndex	SAWS	G	0	11
+FrameIndex	SAWS	H	0	12
+
+FrameIndex	SAWG	A	0	15
+FrameIndex	SAWG	B	0	16
+
+FrameIndex	SAWF	A	0	53
+FrameIndex	SAWF	B	0	54
+FrameIndex	SAWF	C	0	53
+FrameIndex	SAWF	D	0	54
+
+FrameIndex	SAWG	C	0	15
+FrameIndex	SAWG	D	0	16
+}
+
+Model BdChainsaw	
+{ 
+   Path "Models/Weapons/Hud/Grenade"
+   Model 0 "nade.md3"
+   Skin 0 "nade.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+
+	FrameIndex	GRTH	A	0	3
+	FrameIndex	GRTH	B	0	4
+	FrameIndex	GRTH	C	0	5
+	FrameIndex	GRTH	D	0	6
+	FrameIndex	GRTH	E	0	7
+	FrameIndex	GRTH	F	0	8
+	FrameIndex	GRTH	G	0	9
+	
+	FrameIndex	GRTH	H	0	10
+	FrameIndex	GRTH	I	0	11
+	FrameIndex	GRTH	J	0	12
+	FrameIndex	GRTH	K	0	13
+	FrameIndex	GRTH	L	0	14
+	FrameIndex	GRTH	M	0	15
+	
+}
+
+Model BdChainsaw	
+{ 
+   Path "Models/Weapons/Hud/Boot"
+   Model 0 "Boot.md3"
+   Skin 0 "Boot.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+   
+	FrameIndex	STMP	A	0	20
+	FrameIndex	STMP	B	0	21
+	FrameIndex	STMP	C	0	22
+	FrameIndex	STMP	D	0	23
+	FrameIndex	STMP	E	0	24
+	FrameIndex	STMP	F	0	25
+	FrameIndex	STMP	G	0	26
+	FrameIndex	STMP	H	0	27
+	FrameIndex	STMP	I	0	28
+	FrameIndex	STMP	J	0	23
+	FrameIndex	STMP	K	0	20
+
+	FrameIndex	KICK	A	0	20
+	FrameIndex	KICK	B	0	21
+	FrameIndex	KICK	C	0	22
+	FrameIndex	KICK	D	0	23
+	FrameIndex	KICK	E	0	24
+	FrameIndex	KICK	F	0	25
+	FrameIndex	KICK	G	0	26
+	FrameIndex	KICK	H	0	27
+	FrameIndex	KICK	I	0	28
+}

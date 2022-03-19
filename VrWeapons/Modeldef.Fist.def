@@ -1,0 +1,122 @@
+Model BdMeleeAttacks	
+{ 
+   Path "Models/Weapons/Hud/FIST"
+   Model 0 "fistclosed.md3"
+   Skin 0 "fist.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   ZOffset -5
+	NoInterpolation
+
+FrameIndex	PUNG	A	0	0
+FrameIndex	PUNG	B	0	1
+FrameIndex	PUNG	C	0	2
+FrameIndex	PUNG	D	0	3
+FrameIndex	PUNG	E	0	4
+FrameIndex	PUNG	F	0	5
+FrameIndex	PUNG	G	0	6
+FrameIndex	PUNG	H	0	7
+
+FrameIndex	PUP2	B	0	0
+FrameIndex	PUP2	C	0	0
+
+FrameIndex	PUN2	A	0	0
+FrameIndex	PUN2	B	0	1
+FrameIndex	PUN2	C	0	2
+FrameIndex	PUN2	D	0	3
+FrameIndex	PUN2	E	0	4
+FrameIndex	PUN2	F	0	5
+FrameIndex	PUN2	G	0	6
+FrameIndex	PUN2	H	0	7
+
+FrameIndex	PUN3	A	0	0
+FrameIndex	PUN3	B	0	1
+FrameIndex	PUN3	C	0	2
+FrameIndex	PUN3	D	0	3
+FrameIndex	PUN3	E	0	4
+FrameIndex	PUN3	F	0	5
+FrameIndex	PUN3	G	0	6
+FrameIndex	PUN3	H	0	7
+FrameIndex	PUN3	I	0	8
+
+FrameIndex	PUNF	A	0	1
+FrameIndex	PUNF	B	0	2
+FrameIndex	PUNF	C	0	3
+FrameIndex	PUNF	D	0	4
+FrameIndex	PUNF	E	0	1
+FrameIndex	PUNF	F	0	2
+FrameIndex	PUNF	G	0	3
+FrameIndex	PUNF	H	0	4
+FrameIndex	PUNF	I	0	5
+
+FrameIndex	PUNS	A	0	35
+FrameIndex	PUNS	B	0	36
+FrameIndex	PUNS	C	0	37
+FrameIndex	PUNS	D	0	38
+FrameIndex	PUNS	E	0	39
+FrameIndex	PUNS	F	0	40
+FrameIndex	PUNS	G	0	41
+FrameIndex	PUNS	H	0	42
+FrameIndex	PUNS	I	0	43
+FrameIndex	PUNS	J	0	44
+}
+
+Model BdMeleeAttacks	
+{ 
+   Path "Models/Weapons/Hud/Grenade"
+   Model 0 "nade.md3"
+   Skin 0 "nade.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+
+	FrameIndex	GRTH	A	0	3
+	FrameIndex	GRTH	B	0	4
+	FrameIndex	GRTH	C	0	5
+	FrameIndex	GRTH	D	0	6
+	FrameIndex	GRTH	E	0	7
+	FrameIndex	GRTH	F	0	8
+	FrameIndex	GRTH	G	0	9
+	
+	FrameIndex	GRTH	H	0	10
+	FrameIndex	GRTH	I	0	11
+	FrameIndex	GRTH	J	0	12
+	FrameIndex	GRTH	K	0	13
+	FrameIndex	GRTH	L	0	14
+	FrameIndex	GRTH	M	0	15
+	
+}
+
+Model BdMeleeAttacks	
+{ 
+   Path "Models/Weapons/Hud/Boot"
+   Model 0 "Boot.md3"
+   Skin 0 "Boot.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+   
+	FrameIndex	STMP	A	0	20
+	FrameIndex	STMP	B	0	21
+	FrameIndex	STMP	C	0	22
+	FrameIndex	STMP	D	0	23
+	FrameIndex	STMP	E	0	24
+	FrameIndex	STMP	F	0	25
+	FrameIndex	STMP	G	0	26
+	FrameIndex	STMP	H	0	27
+	FrameIndex	STMP	I	0	28
+	FrameIndex	STMP	J	0	23
+	FrameIndex	STMP	K	0	20
+
+	FrameIndex	KICK	A	0	20
+	FrameIndex	KICK	B	0	21
+	FrameIndex	KICK	C	0	22
+	FrameIndex	KICK	D	0	23
+	FrameIndex	KICK	E	0	24
+	FrameIndex	KICK	F	0	25
+	FrameIndex	KICK	G	0	26
+	FrameIndex	KICK	H	0	27
+	FrameIndex	KICK	I	0	28
+}

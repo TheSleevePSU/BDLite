@@ -1,0 +1,91 @@
+Model BdMinigun	
+{ 
+   Path "Models/Weapons/Hud/Minigun"
+   Model 0 "Minigun.md3"
+   Skin 0 "Minigun.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+
+	FrameIndex	CHGS	A	0	0
+	FrameIndex	CHGS	B	0	1
+	FrameIndex	CHGS	C	0	2
+	FrameIndex	CHGS	D	0	3
+	
+	FrameIndex	CHAG	A	0	4
+	FrameIndex	CHAG	B	0	5
+	FrameIndex	CHAG	C	0	6
+	FrameIndex	CHAG	D	0	7
+	
+	FrameIndex	CHAF	A	0	8
+	FrameIndex	CHAF	B	0	9
+	FrameIndex	CHAF	C	0	10
+	FrameIndex	CHAF	D	0	11
+	FrameIndex	CHAF	E	0	9
+	FrameIndex	CHAF	F	0	10
+	FrameIndex	CHAF	G	0	11
+	FrameIndex	CHAF	H	0	9
+	FrameIndex	CHAF	I	0	10
+	FrameIndex	CHAF	J	0	11
+}
+
+Model BdMinigun	
+{ 
+   Path "Models/Weapons/Hud/Grenade"
+   Model 0 "nade.md3"
+   Skin 0 "nade.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+
+	FrameIndex	GRTH	A	0	3
+	FrameIndex	GRTH	B	0	4
+	FrameIndex	GRTH	C	0	5
+	FrameIndex	GRTH	D	0	6
+	FrameIndex	GRTH	E	0	7
+	FrameIndex	GRTH	F	0	8
+	FrameIndex	GRTH	G	0	9
+	
+	FrameIndex	GRTH	H	0	10
+	FrameIndex	GRTH	I	0	11
+	FrameIndex	GRTH	J	0	12
+	FrameIndex	GRTH	K	0	13
+	FrameIndex	GRTH	L	0	14
+	FrameIndex	GRTH	M	0	15
+	
+}
+
+Model BdMinigun	
+{ 
+   Path "Models/Weapons/Hud/Boot"
+   Model 0 "Boot.md3"
+   Skin 0 "Boot.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+   
+	FrameIndex	STMP	A	0	20
+	FrameIndex	STMP	B	0	21
+	FrameIndex	STMP	C	0	22
+	FrameIndex	STMP	D	0	23
+	FrameIndex	STMP	E	0	24
+	FrameIndex	STMP	F	0	25
+	FrameIndex	STMP	G	0	26
+	FrameIndex	STMP	H	0	27
+	FrameIndex	STMP	I	0	28
+	FrameIndex	STMP	J	0	23
+	FrameIndex	STMP	K	0	20
+
+	FrameIndex	KICK	A	0	20
+	FrameIndex	KICK	B	0	21
+	FrameIndex	KICK	C	0	22
+	FrameIndex	KICK	D	0	23
+	FrameIndex	KICK	E	0	24
+	FrameIndex	KICK	F	0	25
+	FrameIndex	KICK	G	0	26
+	FrameIndex	KICK	H	0	27
+	FrameIndex	KICK	I	0	28
+}

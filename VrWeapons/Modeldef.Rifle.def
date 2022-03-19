@@ -1,0 +1,109 @@
+Model BDRifle
+{ 
+   Path "Models/Weapons/Hud/Rifle"
+   Model 0 "Rifle.md3"
+   Skin 0 "Rifle.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   ZOffset -5
+	NoInterpolation
+
+	FrameIndex RIF1 D 0 3
+	FrameIndex RIF2 D 0 3
+	FrameIndex RIF3 D 0 3
+	FrameIndex RIF4 D 0 3
+
+    FrameIndex RIF1 A 0 4
+    FrameIndex RIF1 B 0 5
+    FrameIndex RIF1 C 0 6
+    FrameIndex RIF2 A 0 4
+    FrameIndex RIF2 B 0 5
+    FrameIndex RIF2 C 0 6
+    FrameIndex RIF3 A 0 4
+    FrameIndex RIF3 B 0 5
+    FrameIndex RIF3 C 0 6
+    FrameIndex RIF4 A 0 4
+    FrameIndex RIF4 B 0 5
+    FrameIndex RIF4 C 0 6
+   
+    FrameIndex RIFR A 0 7
+    FrameIndex RIFR B 0 8
+    FrameIndex RIFR C 0 9
+    FrameIndex RIFR D 0 10
+    FrameIndex RIFR E 0 11
+    FrameIndex RIFR F 0 12
+    FrameIndex RIFR G 0 13
+    FrameIndex RIFR H 0 14
+    FrameIndex RIFR I 0 15
+    FrameIndex RIFR J 0 16
+    FrameIndex RIFR K 0 17
+    FrameIndex RIFR L 0 18
+    FrameIndex RIFR M 0 19
+    FrameIndex RIFR N 0 20
+    FrameIndex RIFR O 0 21
+    FrameIndex RIFR P 0 22
+    FrameIndex RIFR Q 0 23
+    FrameIndex RIFR R 0 24
+    FrameIndex RIFR S 0 25
+    FrameIndex RIFR T 0 26
+}
+
+Model BDRifle	
+{ 
+   Path "Models/Weapons/Hud/Grenade"
+   Model 0 "nade.md3"
+   Skin 0 "nade.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+
+	FrameIndex	GRTH	A	0	3
+	FrameIndex	GRTH	B	0	4
+	FrameIndex	GRTH	C	0	5
+	FrameIndex	GRTH	D	0	6
+	FrameIndex	GRTH	E	0	7
+	FrameIndex	GRTH	F	0	8
+	FrameIndex	GRTH	G	0	9
+	
+	FrameIndex	GRTH	H	0	10
+	FrameIndex	GRTH	I	0	11
+	FrameIndex	GRTH	J	0	12
+	FrameIndex	GRTH	K	0	13
+	FrameIndex	GRTH	L	0	14
+	FrameIndex	GRTH	M	0	15
+	
+}
+
+Model BDRifle	
+{ 
+   Path "Models/Weapons/Hud/Boot"
+   Model 0 "Boot.md3"
+   Skin 0 "Boot.png"
+   Scale -1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   NoInterpolation
+   ZOffset -5
+
+	FrameIndex	STMP	A	0	20
+	FrameIndex	STMP	B	0	21
+	FrameIndex	STMP	C	0	22
+	FrameIndex	STMP	D	0	23
+	FrameIndex	STMP	E	0	24
+	FrameIndex	STMP	F	0	25
+	FrameIndex	STMP	G	0	26
+	FrameIndex	STMP	H	0	27
+	FrameIndex	STMP	I	0	28
+	FrameIndex	STMP	J	0	23
+	FrameIndex	STMP	K	0	20
+
+	FrameIndex	KICK	A	0	20
+	FrameIndex	KICK	B	0	21
+	FrameIndex	KICK	C	0	22
+	FrameIndex	KICK	D	0	23
+	FrameIndex	KICK	E	0	24
+	FrameIndex	KICK	F	0	25
+	FrameIndex	KICK	G	0	26
+	FrameIndex	KICK	H	0	27
+	FrameIndex	KICK	I	0	28
+}
